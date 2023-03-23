@@ -16,7 +16,7 @@ If you are interested in sponsoring this event or to be a speaker/panelist of th
 ### Organizing Co-Chairs
 
 
-|![KDD 2023 Header](https://github.com/KDDConference-ESMDay/KDD2023ESMDay/blob/main/images/shenghua.png "Shenghua Bao") | ![KDD 2023 Header](https://github.com/KDDConference-ESMDay/KDD2023ESMDay/blob/main/images/weehyong.png "Weehyong Tok") | ![KDD 2023 Header]([/images/haining.png](https://github.com/KDDConference-ESMDay/KDD2023ESMDay/blob/main/images/haining.png) "Haining Yu") |
+|![Shenghua](images/shenghua.png "Shenghua Bao") | ![weehyong](images/weehyong.png "Weehyong Tok") | ![haining](images/weehyong.png "Haining Yu")  |
 | ---           | ---           |  ---   |
 | Shenghua Bao (Amazon) |  Weehyong Tok (Microsoft) | Haining Yu (Amazon) |
 
