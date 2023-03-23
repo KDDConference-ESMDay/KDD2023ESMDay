@@ -16,5 +16,7 @@ If you are interested in sponsoring this event or to be a speaker/panelist of th
 ### Organizing Co-Chairs
 
 
- Shenghua Bao (Amazon) |  Weehyong Tok (Microsoft) | Haining Yu (Amazon)
+|![KDD 2023 Header](/images/shenghua.png "Shenghua Bao") | ![KDD 2023 Header](/images/weehyong.png "Weehyong Tok") | ![KDD 2023 Header](/images/haining.png "Haining Yu") |
+| ---           | ---           |  ---   |
+| Shenghua Bao (Amazon) |  Weehyong Tok (Microsoft) | Haining Yu (Amazon) |
 
