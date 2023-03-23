@@ -1,2 +1,1 @@
-# KDD2023ESMDay
-KDD 2023 Entertainment, Sports and Media Day
+Welcome to KDD 2023 Entertainment, Sports and Media Day
