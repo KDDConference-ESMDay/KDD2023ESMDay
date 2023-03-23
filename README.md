@@ -1,4 +1,4 @@
-![KDD 2023 Header](https://github.com/KDDConference-ESMDay/KDD2023ESMDay/blob/main/images/kdd2023header.png "KDD 2023 Entertainment, Sports and Media Day")
+![KDD 2023 Header](images/kdd2023header.png "KDD 2023 Entertainment, Sports and Media Day")
 Welcome to KDD 2023 Entertainment, Sports and Media Day
 
 KDD Special Days are satellite events co-hosted with the main conference with special emerging topics that are appealing to the KDD community. They are either half-day or one-day events with the forms of invited speakers, panel discussions, and demos, with the goal to discuss the trends, identify challenges, and provide visionary insights and solutions.
