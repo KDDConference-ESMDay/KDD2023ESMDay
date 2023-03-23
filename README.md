@@ -16,7 +16,7 @@ If you are interested in sponsoring this event or to be a speaker/panelist of th
 ### Organizing Co-Chairs
 
 
-|![Shenghua](images/shenghua.png "Shenghua Bao") | ![weehyong](images/weehyong.png "Weehyong Tok") | ![haining](images/weehyong.png "Haining Yu")  |
+|![Shenghua](images/shenghua.png "Shenghua Bao") | ![weehyong](images/weehyong.png "Weehyong Tok") | ![haining](images/haining.png "Haining Yu")  |
 | ---           | ---           |  ---   |
 | Shenghua Bao (Amazon) |  Weehyong Tok (Microsoft) | Haining Yu (Amazon) |
 
