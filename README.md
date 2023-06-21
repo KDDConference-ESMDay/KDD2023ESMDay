@@ -17,7 +17,7 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 | ![Tracey](images/tracey.png "Tracey Ho") | ![Chris](images/chris.png "Chris H. Wiggins") | ![Adam](images/adam.png "Adam Hussein") | ![Rikwik](images/rikwik.png "Rikwik Kumar") |
 | ---           | ---           |  ---   | ---   |
 | Tracey Ho  |  Chris H. Wiggins | Adam Hussein | Ritwik Kumar  |
-| 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times | Adam Hussein, SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
+| 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
 
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
