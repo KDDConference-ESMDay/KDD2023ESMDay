@@ -15,9 +15,25 @@ We are excited to announce that the ESM Day is joining force with [KDD 2023 Work
 
 If you are interested in sponsoring this event or to be a speaker/panelist of this event, please contact: esm2023@kdd.org
 
-### Agenda
+### Agenda for Aug 7, 2023
+#### Invited Keynote Speakers
 
-## Invited Keynote Speakers:
+| Time |  *Domain* | *Topic* | *Keynote Speaker* |  | 
+| :-------------:| :-------------: |:-------------| :-------------| :-------------|
+| 8:30 - 9:10 | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	| ![Tracey](images/tracey.png "Tracey Ho") | 
+| 9:10 - 9:50 | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	| ![Chris](images/chris.png "Chris H. Wiggins")| 
+| 10:00 - 10:40 | Entertainment |	<TBD> | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros|![Adam](images/adam.png "Adam Hussein") | 
+| 10:40 - 11:20 | Entertainment |	The Science & Art Of Producing Entertainment	| [Rikwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	|![Rikwik](images/rikwik.png "Rikwik Kumar") | 
+
+#### Panel
+##### Time:  11:30 - 12:15
+##### Topic; AI Opportunities in Sports, Media and Entertainment | 
+##### Panelist: 
+* Karin Kricorian	Disney			VP Decision Science, Disney
+* Tracey Ho	Second Spectrum			VP of AI Products at Second Spectrum
+* Adam Hussein	Warner Bros			SVP, Global Data Science & Analytics
+
+### Workshop on Data Science and AI for Sports (stay tuned) 
 
 
 ### Organizing Co-Chairs
