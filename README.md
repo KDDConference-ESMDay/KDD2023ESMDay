@@ -22,17 +22,18 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
 
-> Aug 7 (Monday), 2023 | 8am - 5pm
+Day: Aug 7 (Monday), 2023 | 8am - 5pm
 
+Room: TBD
 
-| Time |  *Domain* | *Title* | *Speaker(s)* | 
-| :-----------------:| :-----------------: |:-----------------| :-------------| 
-| 8:05 - 8:30 | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs |
-| 8:30 - 9:10 | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	|   
-| 9:10 - 9:50 | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	|   
-| 10:00 - 10:40 | Entertainment |	TBD | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros| 
-| 10:40 - 11:20 | Entertainment |	The Science & Art Of Producing Entertainment	| [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	| 
-| 11:30 - 12:15 | Panel | AI Opportunities in Sports, Media and Entertainment | To be added |
+|  Time        |  Domain | Title  | Speaker(s)  | 
+| :----------------------------------------------:     | :-----------------: |:-----------------| :-------------| 
+|  8:05 -  8:30   | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs |
+|  8:30 -  9:10   | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	|   
+|  9:10 -  9:50   | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	|   
+| 10:00 - 10:40   | Entertainment |	TBD | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros| 
+| 10:40 - 11:20   | Entertainment |	The Science & Art Of Producing Entertainment	| [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	| 
+| 11:30 - 12:15   | Panel | AI Opportunities in Sports, Media and Entertainment | To be added |
 
 
 --- 
