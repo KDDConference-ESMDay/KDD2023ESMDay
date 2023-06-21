@@ -25,9 +25,8 @@ If you are interested in sponsoring this event or to be a speaker/panelist of th
 | 10:00 - 10:40 | Entertainment |	<TBD> | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros|![Adam](images/adam.png "Adam Hussein") | 
 | 10:40 - 11:20 | Entertainment |	The Science & Art Of Producing Entertainment	| [Rikwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	|![Rikwik](images/rikwik.png "Rikwik Kumar") | 
 
-#### Panel
+#### Panel Discussion: AI Opportunities in Sports, Media and Entertainment
 ##### Time:  11:30 - 12:15
-##### Topic; AI Opportunities in Sports, Media and Entertainment | 
 ##### Panelist: 
 * Karin Kricorian	Disney			VP Decision Science, Disney
 * Tracey Ho	Second Spectrum			VP of AI Products at Second Spectrum
