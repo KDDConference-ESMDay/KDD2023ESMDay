@@ -22,7 +22,8 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
 
-Aug 7, 2023 | 8am - 5pm
+> Aug 7 (Monday), 2023 | 8am - 5pm
+
 
 | Time |  *Domain* | *Title* | *Speaker(s)* | 
 | :-----------------:| :-----------------: |:-----------------| :-------------| 
