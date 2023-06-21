@@ -11,10 +11,7 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 * Emerging trends and opportunities from big techs, start-ups and VCs in these industries
 * Social and cultural impact of entertainment, sports, and media with the rise of streaming platforms and online services.
 
-
-
-### Agenda for Aug 7, 2023
-#### Invited Keynote Speakers
+## Invited Keynote Speakers
 
 
 | ![Tracey](images/tracey.png "Tracey Ho") | ![Chris](images/chris.png "Chris H. Wiggins") | ![Adam](images/adam.png "Adam Hussein") | ![Rikwik](images/rikwik.png "Rikwik Kumar") |
@@ -22,17 +19,39 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 | Tracey Ho  |  Chris H. Wiggins | Adam Hussein | Ritwik Kumar  |
 | 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times | Adam Hussein, SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
 
-#### Program
 
-| Time |  *Domain* | *Title* | *Keynote Speaker* | *abstract* | 
-| :-----------------:| :-----------------: |:-----------------| :-------------| :-------------|
-| 8:05 - 8:30 | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs | -- |
-| 8:30 - 9:10 | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	|  Artificial Intelligence, in particular Machine Learning and Computer Vision, are transforming sports.  In this talk, we give an inside look at new technologies and capabilities that sports teams, leagues, broadcasters and other partners are leveraging to fundamentally change many aspects of sports, from team analytics to personalized fan experiences, in places like the NBA, NFL and English Premier League. | 
-| 9:10 - 9:50 | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	| The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems. Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge. I'll first outline how unsupervised, supervised, and reinforcement learning methods are increasingly used in human applications for description, prediction, and prescription, espectively. I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in engineering, business, and decision-making more generally. | 
-| 10:00 - 10:40 | Entertainment |	TBD | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros| --- | 
-| 10:40 - 11:20 | Entertainment |	The Science & Art Of Producing Entertainment	| [Rikwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	| Netflix plans to spend about $17 billion over the next year on content. Creators of these stories pour their hearts and souls into turning ideas into joy for Netflix viewers. The sublime art of doing this well is hard to describe, but it necessitates carefully orchestrating creative, business, and technical decisions. In this talk, I will explore how one can use data analytics, machine learning, and AI to enhance creativity and support better decisions that ultimately enable amazing storytelling. | 
+## KDD 2023 Entertainment, Sports and Media Day Program
 
-#### Panel Discussion: AI Opportunities in Sports, Media and Entertainment
+Aug 7, 2023 | 8am - 5pm
+
+| Time |  *Domain* | *Title* | *Speaker(s)* | 
+| :-----------------:| :-----------------: |:-----------------| :-------------| 
+| 8:05 - 8:30 | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs |
+| 8:30 - 9:10 | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	|   
+| 9:10 - 9:50 | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	|   
+| 10:00 - 10:40 | Entertainment |	TBD | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros| 
+| 10:40 - 11:20 | Entertainment |	The Science & Art Of Producing Entertainment	| [Rikwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	| 
+| 11:30 - 12:15 | Panel | AI Opportunities in Sports, Media and Entertainment | To be added |
+
+
+--- 
+### Learn more about each keynote
+
+> **Next way of seeing sports**  
+
+Artificial Intelligence, in particular Machine Learning and Computer Vision, are transforming sports.  In this talk, we give an inside look at new technologies and capabilities that sports teams, leagues, broadcasters and other partners are leveraging to fundamentally change many aspects of sports, from team analytics to personalized fan experiences, in places like the NBA, NFL and English Premier League.
+
+> **Data science @ the New york Times**  
+
+The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems. Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge. I'll first outline how unsupervised, supervised, and reinforcement learning methods are increasingly used in human applications for description, prediction, and prescription, espectively. I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in engineering, business, and decision-making more generally.
+
+> **The Science & Art Of Producing Entertainment**  
+
+Netflix plans to spend about $17 billion over the next year on content. Creators of these stories pour their hearts and souls into turning ideas into joy for Netflix viewers. The sublime art of doing this well is hard to describe, but it necessitates carefully orchestrating creative, business, and technical decisions. In this talk, I will explore how one can use data analytics, machine learning, and AI to enhance creativity and support better decisions that ultimately enable amazing storytelling.
+
+---
+
+### Panel Discussion: AI Opportunities in Sports, Media and Entertainment
 ##### Time:  11:30 - 12:15
 ##### Panelist: 
 * Karin Kricorian	Disney			VP Decision Science, Disney
