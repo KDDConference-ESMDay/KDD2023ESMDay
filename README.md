@@ -15,6 +15,11 @@ We are excited to announce that the ESM Day is joining force with [KDD 2023 Work
 
 If you are interested in sponsoring this event or to be a speaker/panelist of this event, please contact: esm2023@kdd.org
 
+### Agenda
+
+## Invited Keynote Speakers:
+
+
 ### Organizing Co-Chairs
 
 
