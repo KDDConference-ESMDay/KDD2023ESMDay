@@ -20,7 +20,7 @@ If you are interested in sponsoring this event or to be a speaker/panelist of th
 
 | Time |  *Domain* | *Topic* | *Keynote Speaker* |  | 
 | :-----------------:| :-----------------: |:-----------------| :-------------| :-------------|
-| 8:30 - 9:10 | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	| ![Tracey](images/tracey.png "Tracey Ho") | 
+| 8:30 - 9:10 | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	| ![Tracey](images/tracey.jpg "Tracey Ho") | 
 | 9:10 - 9:50 | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	| ![Chris](images/chris.png "Chris H. Wiggins")| 
 | 10:00 - 10:40 | Entertainment |	<TBD> | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros|![Adam](images/adam.png "Adam Hussein") | 
 | 10:40 - 11:20 | Entertainment |	The Science & Art Of Producing Entertainment	| [Rikwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	|![Rikwik](images/rikwik.png "Rikwik Kumar") | 
