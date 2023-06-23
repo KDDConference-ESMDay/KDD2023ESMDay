@@ -31,7 +31,7 @@ Room: TBD
 |  Time        |  Domain | Title  | Speaker(s)  | 
 | :----------------------------------------------:     | :-----------------: |:-----------------| :-------------| 
 |  8:05 -  8:30   | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs |
-|  8:30 -  9:10   | Entertainment |	The Secrets of the Data Science Behind Hollywood's Magic | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	 | 
+|  8:30 -  9:10   | Entertainment |	The Secrets of the Data Science Behind Hollywood's Magic | [Adam Husein](https://www.linkedin.com/in/ahusein/)	 | 
 |  9:10 -  9:50   | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/)	|   
 |  10:00 - 10:40  | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	|   
 | 10:40 - 11:20   | Entertainment |	The Science & Art Of Producing Entertainment	| [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/)	| 
