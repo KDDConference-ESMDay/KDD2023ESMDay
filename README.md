@@ -62,9 +62,10 @@ Netflix plans to spend about $17 billion over the next year on content. Creators
 ### Panel Discussion: AI Opportunities in Sports, Media and Entertainment
 ##### Time:  11:30 - 12:15
 ##### Panelist: 
-* Karin Kricorian	Disney			VP Decision Science, Disney
-* Tracey Ho	Second Spectrum			VP of AI Products at Second Spectrum
-* Adam Hussein	Warner Bros			SVP, Global Data Science & Analytics
+* Adam Husein,	Warner Bros			SVP, Global Data Science & Analytics
+* Karin Kricorian,	Disney			VP Decision Science, Disney
+* Tracey Ho,	Second Spectrum		VP of AI Products at Second Spectrum
+
 
 ---
 
