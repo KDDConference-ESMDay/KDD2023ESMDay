@@ -16,28 +16,33 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 
 | ![Tracey](images/tracey.png "Tracey Ho") | ![Chris](images/chris.png "Chris H. Wiggins") | ![Adam](images/adam.png "Adam Hussein") | ![Rikwik](images/rikwik.png "Rikwik Kumar") |
 | ---           | ---           |  ---   | ---   |
-| Tracey Ho  |  Chris H. Wiggins | Adam Hussein | Ritwik Kumar  |
+| Tracey Ho  |  Chris H. Wiggins | Adam Husein | Ritwik Kumar  |
 | 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
 
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
 
+
 Day: Aug 7 (Monday), 2023 | 8am - 5pm
 
 Room: TBD
 
+
 |  Time        |  Domain | Title  | Speaker(s)  | 
 | :----------------------------------------------:     | :-----------------: |:-----------------| :-------------| 
 |  8:05 -  8:30   | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs |
-|  8:30 -  9:10   | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/),	VP of AI Products at Second Spectrum	|   
-|  9:10 -  9:50   | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/),	Chief Data Scientist, New York Times	|   
-| 10:00 - 10:40   | Entertainment |	TBD | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	SVP, Global Data Science & Analytics, Warner Bros| 
-| 10:40 - 11:20   | Entertainment |	The Science & Art Of Producing Entertainment	| [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/),	Senior Director, Machine Learning at Netflix	| 
+|  8:30 -  9:10   | Entertainment |	The Secrets of the Data Science Behind Hollywood's Magic | [Adam Hussein](https://www.linkedin.com/in/ahusein/)	 | 
+|  9:10 -  9:50   | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/)	|   
+|  10:00 - 10:40  | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	|   
+| 10:40 - 11:20   | Entertainment |	The Science & Art Of Producing Entertainment	| [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/)	| 
 | 11:30 - 12:15   | Panel | AI Opportunities in Sports, Media and Entertainment | To be added |
 
 
 --- 
 ### Learn more about each keynote
+> **The Secrets of the Data Science Behind Hollywood's Magic**
+
+Learn about the Data Science that goes into making your favorite Movies and TV shows in "The Secrets of the Data Science Behind Hollywood's Magic." This talk offers a captivating dive into the intertwining worlds of data science and entertainment. Through personal experiences, innovative case studies, and invaluable insights, Adam unveils how data science, analytics, and AI shape the stories that enchant us. This talk will take you behind the scenes to show you groundbreaking analytics tools revolutionizing content creation, and provide a rare glimpse into the data-driven core of the entertainment industry. Attendees will walk away with practical knowledge and best practices that are as applicable in Hollywood as they are in any industry.
 
 > **Next way of seeing sports**  
 
@@ -50,6 +55,7 @@ The Data Science group at The New York Times develops and deploys machine learni
 > **The Science & Art Of Producing Entertainment**  
 
 Netflix plans to spend about $17 billion over the next year on content. Creators of these stories pour their hearts and souls into turning ideas into joy for Netflix viewers. The sublime art of doing this well is hard to describe, but it necessitates carefully orchestrating creative, business, and technical decisions. In this talk, I will explore how one can use data analytics, machine learning, and AI to enhance creativity and support better decisions that ultimately enable amazing storytelling.
+
 
 ---
 
