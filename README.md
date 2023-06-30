@@ -33,20 +33,20 @@ Day: Aug 7 (Monday), 2023 | 8am - 5pm
 Room: TBD
 
 
-|     Time      |  Domain | Title                                                                 | Speaker(s)                                                                     | 
-|:-------------:| :-----------------: |:----------------------------------------------------------------------|:-------------------------------------------------------------------------------| 
-| 8:05 -  8:30  | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
+|     Time      |    Domain     | Title                                                                 | Speaker(s)                                                                     | 
+|:-------------:|:-------------:|:----------------------------------------------------------------------|:-------------------------------------------------------------------------------| 
+| 8:05 -  8:30  |    Kickoff    | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
 | 8:30 -  9:10  | Entertainment | 	The Secrets of the Data Science Behind Hollywood's Magic             | [Adam Husein](https://www.linkedin.com/in/ahusein/)	                           | 
-| 9:10 -  9:50  | Sports| 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
-| 10:00 - 10:40 | Media	| Data science @ the New york Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
+| 9:10 -  9:50  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
+| 10:00 - 10:40 |    Media	     | Data science @ the New york Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
 | 10:40 - 11:20 | Entertainment | 	The Science & Art Of Producing Entertainment	                        | [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/)	                     | 
-| 11:30 - 12:15 | Panel | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
-| 13:30 - 14:00 | Sports | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
-| 14:00 - 14:30 | Sports | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
-| 14:30 - 15:00 | Sports | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
-| 15:00 - 16:00 | Sports | Selected Paper Presentations	                                         | To be added 	                                                                  |
-| 16:00 - 16:45 | Sports | To be added	                                                          | To be added 	                                                                  |
-| 16:45 - 17:30 | Sports | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	                                                                |
+| 11:30 - 12:15 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
+| 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
+| 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
+| 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
+| 15:00 - 16:00 |    Sports     | Selected Paper Presentations	                                         | To be added 	                                                                  |
+| 16:00 - 16:45 |     Panel     | To be added	                                                          | To be added 	                                                                  |
+| 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	                                                                |
 
 --- 
 ### Learn more about each keynote
