@@ -23,7 +23,7 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 | <img src="images/mike.png" width="300" height="300" alt="Mike Band"> | <img src="images/zhutian.png" width="300" height="300" alt="Zhutian (Zhu-Tian) Chen"> | <img src="images/phil.png" width="300" height="300" alt="Phil Martin"> | 
 |----------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Mike Band                                                            | Zhutian (Zhu-Tian) Chen                                                               | Phil Martin                                                            |
-| 	Senior Manager of Research and Analytics, NFL NGS                   | Incoming Assistant Professor of Computer Science, University of Minnesota-Twin Cities | VP of Data Products and ML Strategy, FOX Corporation                   |
+| 	Senior Manager of Research and Analytics, NFL NGS                   | Incoming Assistant Professor at University of Minnesota-Twin Cities                   | VP of Data Products and ML Strategy, FOX Corporation                   |
 
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
