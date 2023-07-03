@@ -22,10 +22,11 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 | Tracey Ho  |  Chris H. Wiggins | Adam Husein | Ritwik Kumar  |
 | 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
 
-| ![Mike](images/mike.png "Mike Band")               | ![Zhutian](images/zhutian.png "Zhutian Chen") | ![Phil](images/phil.png "Phil Martin")               |
-| --- |  --- |--- |
-| Mike Band                                                            | Zhutian (Zhu-Tian) Chen                                                               | Phil Martin                                                            |
-| 	Senior Manager of Research and Analytics, Next Gen Stats at NFL    | Incoming Assistant Professor at University of Minnesota-Twin Cities                   | VP of Data Products and ML Strategy, FOX Corporation                   |
+
+| ![Mike](images/mike.png "Mike Band")               | ![Zhutian](images/zhutian.png "Zhutian Chen") | ![Phil](images/phil.png "Phil Martin")               |    |
+| --- |  --- |--- |---   |
+| Mike Band             | Zhutian (Zhu-Tian) Chen         | Phil Martin           |  |
+| 	Senior Manager of Research and Analytics, Next Gen Stats at NFL    | Incoming Assistant Professor at University of Minnesota-Twin Cities  | VP of Data Products and ML Strategy, FOX Corporation  | |
 
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
@@ -49,7 +50,7 @@ Room: TBD
 | 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
 | 15:00 - 16:00 |    Sports     | Selected Paper Presentations	                                         | To be added 	                                                                  |
 | 16:00 - 16:45 |     Panel     | To be added	                                                          | To be added 	                                                                  |
-| 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	                                                                |
+| 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	       |
 
 --- 
 ### Learn more about each keynote
