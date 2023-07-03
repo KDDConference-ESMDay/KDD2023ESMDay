@@ -11,6 +11,9 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 * Emerging trends and opportunities from big techs, start-ups and VCs in these industries
 * Social and cultural impact of entertainment, sports, and media with the rise of streaming platforms and online services.
 
+
+
+
 ## Invited Keynote Speakers
 
 
@@ -81,26 +84,20 @@ Zhutian will will introduce our latest research in using AR/VR visualization tec
 
 
 ---
-
-### Workshop on Data Science and AI for Sports 
-We are excited to announce that the ESM Day is joining force with [KDD 2023 Workshop on Data Science and AI for Sports (DSAI4Sports)](https://dsai4sports.github.io/). The DSAI4Sports workshop aims to bring together interested researchers and practitioners at the intersection of AI/ML and sports analytics. We will offer a platform to exchange research ideas, identify research opportunities and challenges in applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a research community centered around this field. Both the ESM Day and the DSAI4Sports workshop will take place on the same day (Aug 7th) and in same conference room.
-
----
 ### Sponsorship
 If you are interested in sponsoring this event or to be a speaker/panelist of this event, please contact: esm2023@kdd.org
 
-
 ---
 
-### Organizing Co-Chairs
-
+### ESM Day Organizing Co-Chairs
 
 |![Shenghua](images/shenghua.png "Shenghua Bao") | ![weehyong](images/weehyong.png "Weehyong Tok") | ![haining](images/haining.png "Haining Yu")  |
 | ---           | ---           |  ---   |
 | Shenghua Bao (Amazon) |  Weehyong Tok (Microsoft) | Haining Yu (Amazon) |
 
-
-### DSAI4Sports Organizers
+---
+### Workshop on Data Science and AI for Sports (DSAI4Sports) Organizers
+We are excited to announce that the ESM Day is joining force with [KDD 2023 Workshop on Data Science and AI for Sports (DSAI4Sports)](https://dsai4sports.github.io/). The DSAI4Sports workshop aims to bring together interested researchers and practitioners at the intersection of AI/ML and sports analytics. We will offer a platform to exchange research ideas, identify research opportunities and challenges in applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a research community centered around this field. Both the ESM Day and the DSAI4Sports workshop will take place on the same day (Aug 7th) and in same conference room.
 
 
 | ![Huan](images/huan.png "Huan Song") | ![Panpan](images/panpan.png "Panpan Xu") | ![Lin Lee](images/linlee.png "Lin Lee Cheong") | ![Henry](images/henry.png "Henry Wang") |
