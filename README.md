@@ -19,6 +19,11 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 | Tracey Ho  |  Chris H. Wiggins | Adam Husein | Ritwik Kumar  |
 | 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
 
+| ![Mike](images/mike.png "Mike Band")               | ![Zhutian](images/zhutian.png "Zhutian Chen") | ![Phil](images/phil.png "Phil Martin")               |
+|----------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Mike Band                                                            | Zhutian (Zhu-Tian) Chen                                                               | Phil Martin                                                            |
+| 	Senior Manager of Research and Analytics, Next Gen Stats at NFL    | Incoming Assistant Professor at University of Minnesota-Twin Cities                   | VP of Data Products and ML Strategy, FOX Corporation                   |
+
 
 ## KDD 2023 Entertainment, Sports and Media Day Program
 
@@ -28,15 +33,20 @@ Day: Aug 7 (Monday), 2023 | 8am - 5pm
 Room: TBD
 
 
-|  Time        |  Domain | Title  | Speaker(s)  | 
-| :----------------------------------------------:     | :-----------------: |:-----------------| :-------------| 
-|  8:05 -  8:30   | Kickoff | Exciting opportunities for AI in Sports, Media and Entertainment | Special Day Chairs |
-|  8:30 -  9:10   | Entertainment |	The Secrets of the Data Science Behind Hollywood's Magic | [Adam Husein](https://www.linkedin.com/in/ahusein/)	 | 
-|  9:10 -  9:50   | Sports|	Next way of seeing sports	|  [Tracey Ho](https://www.linkedin.com/in/traceych/)	|   
-|  10:00 - 10:40  | Media	|Data science @ the New york Times	| [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	|   
-| 10:40 - 11:20   | Entertainment |	The Science & Art Of Producing Entertainment	| [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/)	| 
-| 11:30 - 12:15   | Panel | AI Opportunities in Sports, Media and Entertainment | To be added |
-
+|     Time      |    Domain     | Title                                                                 | Speaker(s)                                                                     | 
+|:-------------:|:-------------:|:----------------------------------------------------------------------|:-------------------------------------------------------------------------------| 
+| 8:05 -  8:30  |    Kickoff    | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
+| 8:30 -  9:10  | Entertainment | 	The Secrets of the Data Science Behind Hollywood's Magic             | [Adam Husein](https://www.linkedin.com/in/ahusein/)	                           | 
+| 9:10 -  9:50  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
+| 10:00 - 10:40 |    Media	     | Data science @ the New york Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
+| 10:40 - 11:20 | Entertainment | 	The Science & Art Of Producing Entertainment	                        | [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/)	                     | 
+| 11:30 - 12:15 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
+| 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
+| 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
+| 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
+| 15:00 - 16:00 |    Sports     | Selected Paper Presentations	                                         | To be added 	                                                                  |
+| 16:00 - 16:45 |     Panel     | To be added	                                                          | To be added 	                                                                  |
+| 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	                                                                |
 
 --- 
 ### Learn more about each keynote
@@ -56,6 +66,9 @@ The Data Science group at The New York Times develops and deploys machine learni
 
 Netflix plans to spend about $17 billion over the next year on content. Creators of these stories pour their hearts and souls into turning ideas into joy for Netflix viewers. The sublime art of doing this well is hard to describe, but it necessitates carefully orchestrating creative, business, and technical decisions. In this talk, I will explore how one can use data analytics, machine learning, and AI to enhance creativity and support better decisions that ultimately enable amazing storytelling.
 
+> **When Data Meets Reality Augmenting Sports Scenes with Visualizations**
+ 
+Zhutian will will introduce our latest research in using AR/VR visualization techniques to enhance the experience of sports analysts, audiences, and fans.
 
 ---
 
@@ -69,8 +82,8 @@ Netflix plans to spend about $17 billion over the next year on content. Creators
 
 ---
 
-### Workshop on Data Science and AI for Sports (stay tuned) 
-We are excited to announce that the ESM Day is joining force with [KDD 2023 Workshop on Data Science and AI for Sports (DSAI4Sports)](https://dsai4sports.github.io/). The DSAI4Sports workshop aims to bring together interested researchers and practitioners at the intersection of AI/ML and sports analytics. We will offer a platform to exchange research ideas, identify research opportunities and challenges in applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a research community centered around this field. Both the ESM Day and the DSAI4Sports workshop will take place on the same day (Aug 7th) and in same conference room (details to come).
+### Workshop on Data Science and AI for Sports 
+We are excited to announce that the ESM Day is joining force with [KDD 2023 Workshop on Data Science and AI for Sports (DSAI4Sports)](https://dsai4sports.github.io/). The DSAI4Sports workshop aims to bring together interested researchers and practitioners at the intersection of AI/ML and sports analytics. We will offer a platform to exchange research ideas, identify research opportunities and challenges in applying AI/ML for sports analytics, engage in thoughtful discussions, and foster the development of a research community centered around this field. Both the ESM Day and the DSAI4Sports workshop will take place on the same day (Aug 7th) and in same conference room.
 
 ---
 ### Sponsorship
@@ -86,3 +99,10 @@ If you are interested in sponsoring this event or to be a speaker/panelist of th
 | ---           | ---           |  ---   |
 | Shenghua Bao (Amazon) |  Weehyong Tok (Microsoft) | Haining Yu (Amazon) |
 
+
+### DSAI4Sports Organizers
+
+
+| ![Huan](images/huan.png "Huan Song") | ![Panpan](images/panpan.png "Panpan Xu") | ![Lin Lee](images/linlee.png "Lin Lee Cheong") | ![Henry](images/henry.png "Henry Wang") |
+|--------------------------------------|------------------------------------------|------------------------------------------------| ------------------------------------------------|
+| Huan Song (Amazon)                   | Panpan Xu (Amazon)                       | Lin Lee Cheong (Amazon)                        | Henry Wang (Amazon)                     |
