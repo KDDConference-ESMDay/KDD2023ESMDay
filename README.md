@@ -79,9 +79,9 @@ Zhutian will will introduce our latest research in using AR/VR visualization tec
 ### Panel Discussion: AI Opportunities in Sports, Media and Entertainment
 ##### Time:  11:30 - 12:15
 ##### Panelist: 
-* Adam Husein,	Warner Bros			SVP, Global Data Science & Analytics
-* Tracey Ho,	Second Spectrum		VP of AI Products at Second Spectrum
-
+* Adam Husein,	SVP Global Data Science & Analytics,  Warner Bros
+* Tracey Ho,	VP of AI Products, Second Spectrum
+* Chris H. Wiggins,	Chief Data Scientist, New York Times
 
 ---
 ### Sponsorship
