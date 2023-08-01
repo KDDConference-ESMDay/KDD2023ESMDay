@@ -16,12 +16,11 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 
 ## Invited Keynote Speakers
 
-
-| ![Tracey](images/tracey.png "Tracey Ho") | ![Chris](images/chris.png "Chris H. Wiggins") | ![Adam](images/adam.png "Adam Hussein") |
+| <img src="images/tracey.png" alt="Tracey Ho" style="height: 400px;"> | <img src="images/chris.png" alt="Chris H. Wiggins" style="height: 400px;"> | <img src="images/adam.png" alt="Adam Hussein" style="height: 400px;"> |
 | ---           | ---           | --- |
 | Tracey Ho  |  Chris H. Wiggins | Adam Husein |
 | 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros |
-| ![Mike](images/mike.png "Mike Band")               | ![Zhutian](images/zhutian.png "Zhutian Chen") | ![Phil](images/phil.png "Phil Martin")               |  
+| <img src="images/mike.png" alt="Mike Band" style="height: 400px;"> | <img src="images/zhutian.png" alt="Zhutian Chen" style="height: 400px;"> | <img src="images/phil.png" alt="Phil Martin" style="height: 400px;"> |
 | Mike Band  | Zhutian (Zhu-Tian) Chen | Phil Martin | 
 | 	Senior Manager of Research and Analytics, Next Gen Stats at NFL    | Incoming Assistant Professor at University of Minnesota-Twin Cities  | VP of Data Products and ML Strategy, FOX Corporation  | 
 
@@ -29,7 +28,7 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 ## KDD 2023 Entertainment, Sports and Media Day Program
 
 
-Day: Aug 7 (Monday), 2023 | 8am - 5pm
+Day: Aug 7 (Monday), 2023 | 8am - 5:30pm
 
 Room: 101A
 
@@ -46,7 +45,7 @@ Room: 101A
 | 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
 | 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
 | 15:00 - 16:00 |    Sports     | Selected Paper Presentations	                                         | To be added 	                                                                  |
-| 16:00 - 16:45 |     Panel     | To be added	                                                          | To be added 	                                                                  |
+| 16:00 - 16:45 |     Panel     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/), [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/), [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)  	                                                                  |
 | 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	       |
 
 --- 
@@ -63,9 +62,17 @@ Artificial Intelligence, in particular Machine Learning and Computer Vision, are
 
 The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems. Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge. I'll first outline how unsupervised, supervised, and reinforcement learning methods are increasingly used in human applications for description, prediction, and prescription, espectively. I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in engineering, business, and decision-making more generally.
 
+> **Next Gen Stats @ NFL**
+
+Since its inception in 2016, the NFL's Next Gen Stats group has revolutionized football statistics. Through the utilization of player tracking data, NGS has developed a series of innovative metrics, many of which powered by distinct machine learning models. Each model delves into a unique facet of the game, contributing to comprehensive metrics that can evaluate the performance of not only individual players but entire teams and beyond. From Completion Probability to Expected Rushing Yards and the intuitive Fourth Down Decision Guide, I'll guide you on a fascinating journey through the many machine learning models in production at Next Gen Stats.
+
 > **When Data Meets Reality Augmenting Sports Scenes with Visualizations**
  
-Zhutian will will introduce our latest research in using AR/VR visualization techniques to enhance the experience of sports analysts, audiences, and fans.
+Augmented sports videos have become increasingly popular among sports enthusiasts worldwide. They combine embedded visualizations and video effects to present data overlaid on videos to effectively communicate sports insights. However, creating these videos can be challenging, requiring significant time and video editing skills. In this talk, I will present a set of human-AI systems that ease visualizing data into sports video to enhance data-experiences for sports games.  These systems enable natural interactions, such as using natural language or gaze, to interact with in-game data, catering to experts, general audiences, and fans alike. I will share ongoing research endeavors aimed at creating a more immersive, interactive, and enjoyable game-watching experience for the future.
+
+> **Moments**
+
+Moments are what define fandom. FOX believes in harnessing the power of the data and ML/AI to contextualize these moments to offer up new and exciting experiences that revolutionize fandom. In this talk, Phil will share how FOX leverages data to create products that attract and retain viewers, while redefining personalization and hyper-engaging fans.
 
 ---
 
@@ -75,6 +82,13 @@ Zhutian will will introduce our latest research in using AR/VR visualization tec
 * Adam Husein,	SVP Global Data Science & Analytics,  Warner Bros
 * Tracey Ho,	VP of AI Products, Second Spectrum
 * Chris H. Wiggins,	Chief Data Scientist, New York Times
+
+### Panel Discussion: The Tech Playbook: How AI and ML are Redefining Sports
+##### Time:  16:00 - 16:45
+##### Panelist: 
+* Mike Band, Senior Manager of Research and Analytics, Next Gen Stats at NFL
+* Zhutian (Zhu-Tian) Chen, Incoming Assistant Professor, University of Minnesota - Twin Cities
+* Phil Martin, VP of Data Products and ML Strategy, FOX Corporation
 
 ---
 ### Sponsorship
