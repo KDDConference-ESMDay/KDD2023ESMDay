@@ -41,11 +41,11 @@ Room: 101A
 | 9:50 - 10:10 |   	|  Coffee Break                                |     |   
 | 10:10 - 11:00 |    Media	     | Data science @ the New York Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
 | 11:00 - 12:00 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | [Adam Husein](https://www.linkedin.com/in/ahusein/), [Tracey Ho](https://www.linkedin.com/in/traceych/), [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)                                                                    |
-| 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
+| 13:30 - 14:00 |    Sports     | Next Gen Stats @ NFL	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
 | 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
-| 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
-| 15:00 - 16:00 |    Sports     | Selected Paper Presentations	                                         | To be added 	                                                                  |
-| 16:00 - 16:45 |     Panel     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/), [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/), [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)  	                                                                  |
+| 14:30 - 15:00 |    Sports     | Moments	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
+| 15:00 - 16:00 |    Sports     | Selected Paper Presentations	                                         | Selected Paper Speakers 	                                                                  |
+| 16:00 - 16:45 |     Panel     | The Tech Playbook: How AI and ML are Redefining Sports	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/), [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/), [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)  	                                                                  |
 | 16:45 - 17:30 |    Sports     | GenAI for Sports Workshop	                                            | [Henry Wang](https://www.linkedin.com/in/henry-yuanheng-wang-25206858/)	       |
 
 --- 
