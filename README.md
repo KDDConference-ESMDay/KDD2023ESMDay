@@ -17,10 +17,10 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 ## Invited Keynote Speakers
 
 
-| ![Tracey](images/tracey.png "Tracey Ho") | ![Chris](images/chris.png "Chris H. Wiggins") | ![Adam](images/adam.png "Adam Hussein") | ![Rikwik](images/rikwik.png "Rikwik Kumar") |
-| ---           | ---           |  ---   | ---   |
-| Tracey Ho  |  Chris H. Wiggins | Adam Husein | Ritwik Kumar  |
-| 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros | Senior Director, Machine Learning at Netflix |
+| ![Tracey](images/tracey.png "Tracey Ho") | ![Chris](images/chris.png "Chris H. Wiggins") | ![Adam](images/adam.png "Adam Hussein") |
+| ---           | ---           | --- |
+| Tracey Ho  |  Chris H. Wiggins | Adam Husein |
+| 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros |
 
 
 | ![Mike](images/mike.png "Mike Band")               | ![Zhutian](images/zhutian.png "Zhutian Chen") | ![Phil](images/phil.png "Phil Martin")               |  
@@ -42,8 +42,7 @@ Room: 101A
 | 8:05 -  8:30  |    Kickoff    | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
 | 8:30 -  9:10  | Entertainment | 	The Secrets of the Data Science Behind Hollywood's Magic             | [Adam Husein](https://www.linkedin.com/in/ahusein/)	                           | 
 | 9:10 -  9:50  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
-| 10:00 - 10:40 |    Media	     | Data science @ the New york Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
-| 10:40 - 11:20 | Entertainment | 	The Science & Art Of Producing Entertainment	                        | [Ritwik Kumar](https://www.linkedin.com/in/ritwik-kumar/)	                     | 
+| 10:00 - 10:40 |    Media	     | Data science @ the New York Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
 | 11:30 - 12:15 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
 | 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
 | 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
@@ -62,13 +61,9 @@ Learn about the Data Science that goes into making your favorite Movies and TV s
 
 Artificial Intelligence, in particular Machine Learning and Computer Vision, are transforming sports.  In this talk, we give an inside look at new technologies and capabilities that sports teams, leagues, broadcasters and other partners are leveraging to fundamentally change many aspects of sports, from team analytics to personalized fan experiences, in places like the NBA, NFL and English Premier League.
 
-> **Data science @ the New york Times**  
+> **Data science @ the New York Times**  
 
 The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems. Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge. I'll first outline how unsupervised, supervised, and reinforcement learning methods are increasingly used in human applications for description, prediction, and prescription, espectively. I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in engineering, business, and decision-making more generally.
-
-> **The Science & Art Of Producing Entertainment**  
-
-Netflix plans to spend about $17 billion over the next year on content. Creators of these stories pour their hearts and souls into turning ideas into joy for Netflix viewers. The sublime art of doing this well is hard to describe, but it necessitates carefully orchestrating creative, business, and technical decisions. In this talk, I will explore how one can use data analytics, machine learning, and AI to enhance creativity and support better decisions that ultimately enable amazing storytelling.
 
 > **When Data Meets Reality Augmenting Sports Scenes with Visualizations**
  
