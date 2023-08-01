@@ -16,11 +16,11 @@ As KDD 2023 comes to the home of Hollywood, we are pleased to announce the speci
 
 ## Invited Keynote Speakers
 
-| <img src="images/tracey.png" alt="Tracey Ho" style="height: 400px;"> | <img src="images/chris.png" alt="Chris H. Wiggins" style="height: 400px;"> | <img src="images/adam.png" alt="Adam Hussein" style="height: 400px;"> |
+| <img src="images/tracey.png" alt="Tracey Ho" style="height: 270px;"> | <img src="images/chris.png" alt="Chris H. Wiggins" style="height: 270px;"> | <img src="images/adam.png" alt="Adam Hussein" style="height: 270px;"> |
 | ---           | ---           | --- |
 | Tracey Ho  |  Chris H. Wiggins | Adam Husein |
 | 	VP of AI Products, Second Spectrum |  Chief Data Scientist, New York Times |  SVP, Global Data Science & Analytics, Warner Bros |
-| <img src="images/mike.png" alt="Mike Band" style="height: 400px;"> | <img src="images/zhutian.png" alt="Zhutian Chen" style="height: 400px;"> | <img src="images/phil.png" alt="Phil Martin" style="height: 400px;"> |
+| <img src="images/mike.png" alt="Mike Band" style="height: 270px;"> | <img src="images/zhutian.png" alt="Zhutian Chen" style="height: 270px;"> | <img src="images/phil.png" alt="Phil Martin" style="height: 270px;"> |
 | Mike Band  | Zhutian (Zhu-Tian) Chen | Phil Martin | 
 | 	Senior Manager of Research and Analytics, Next Gen Stats at NFL    | Incoming Assistant Professor at University of Minnesota-Twin Cities  | VP of Data Products and ML Strategy, FOX Corporation  | 
 
