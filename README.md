@@ -80,7 +80,6 @@ Zhutian will will introduce our latest research in using AR/VR visualization tec
 ##### Time:  11:30 - 12:15
 ##### Panelist: 
 * Adam Husein,	Warner Bros			SVP, Global Data Science & Analytics
-* Karin Kricorian,	Disney			VP Decision Science Products, Disney
 * Tracey Ho,	Second Spectrum		VP of AI Products at Second Spectrum
 
 
