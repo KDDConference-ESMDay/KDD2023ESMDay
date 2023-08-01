@@ -39,11 +39,11 @@ Room: 101A
 
 |     Time      |    Domain     | Title                                                                 | Speaker(s)                                                                     | 
 |:-------------:|:-------------:|:----------------------------------------------------------------------|:-------------------------------------------------------------------------------| 
-| 8:05 -  8:30  |    Kickoff    | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
-| 8:30 -  9:10  | Entertainment | 	The Secrets of the Data Science Behind Hollywood's Magic             | [Adam Husein](https://www.linkedin.com/in/ahusein/)	                           | 
-| 9:10 -  9:50  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
-| 10:00 - 10:40 |    Media	     | Data science @ the New York Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
-| 11:30 - 12:15 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
+| 8:30 -  8:40  |    Kickoff    | Exciting opportunities for AI in Sports, Media and Entertainment      | Special Day Chairs                                                             |
+| 8:40 -  9:20  | Entertainment | 	The Secrets of the Data Science Behind Hollywood's Magic             | [Adam Husein](https://www.linkedin.com/in/ahusein/)	                           | 
+| 9:20 -  10:00  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
+| 10:20 - 11:00 |    Media	     | Data science @ the New York Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
+| 11:00 - 12:00 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
 | 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
 | 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
 | 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
