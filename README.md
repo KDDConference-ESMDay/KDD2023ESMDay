@@ -41,7 +41,7 @@ Room: 101A
 | 9:00 -  9:50  |    Sports     | 	Next way of seeing sports	                                           | [Tracey Ho](https://www.linkedin.com/in/traceych/)	                            |   
 | 9:50 - 10:10 |   	|  Coffee Break                                |     |   
 | 10:10 - 11:00 |    Media	     | Data science @ the New York Times	                                    | [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)	                      |   
-| 11:00 - 12:00 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | To be added                                                                    |
+| 11:00 - 12:00 |     Panel     | AI Opportunities in Sports, Media and Entertainment                   | [Adam Husein](https://www.linkedin.com/in/ahusein/), [Tracey Ho](https://www.linkedin.com/in/traceych/), [Chris H. Wiggins](https://www.linkedin.com/in/wiggins/)                                                                    |
 | 13:30 - 14:00 |    Sports     | To be added	                                                          | [Mike Band](https://www.linkedin.com/in/mike-band-analytics/)	                 |
 | 14:00 - 14:30 |    Sports     | When Data Meets Reality Augmenting Sports Scenes with Visualizations	 | [Zhutian (Zhu-Tian) Chen](https://www.linkedin.com/in/zhutian-chen-69760484/)	 |
 | 14:30 - 15:00 |    Sports     | To be added	                                                          | [Phil Martin](https://www.linkedin.com/in/philip-martin-7853ab7a/)	            |
