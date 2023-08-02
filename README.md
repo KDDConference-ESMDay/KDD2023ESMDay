@@ -77,7 +77,7 @@ Moments are what define fandom. FOX believes in harnessing the power of the data
 ---
 
 ### Panel Discussion: AI Opportunities in Sports, Media and Entertainment
-##### Time:  11:30 - 12:15
+##### Time:  11:00 - 12:00
 ##### Panelist: 
 * Adam Husein,	SVP Global Data Science & Analytics,  Warner Bros
 * Tracey Ho,	VP of AI Products, Second Spectrum
